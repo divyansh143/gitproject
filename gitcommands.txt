@@ -1,0 +1,31 @@
+thoery-- Q&N
+flow
+git locally
+github
+
+-------------------------
+
+what is git?
+git is tool. to keep or to manage source code.
+
+what is github/gitlab?
+these are cloud repository. to keep the records or the source code.
+
+why we cant use google drive?
+git--it helps in version control system.
+
+--central versioning
+--distributed versioning
+
+--------------------------
+
+Commands (one time for initial setup)
+
+1) git config --global user.name "yourusername"  
+2) git config --global user.email "youremail"
+3) git config --list 
+
+--------------------------
+
+Most used Commands --
+
