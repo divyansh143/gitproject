@@ -1,4 +1,4 @@
-thoery-- Q&N
+thoery-- Q&N                    Please Subscribe to Channel. Follow Ig- Divyansh_2207
 flow
 git locally
 github
@@ -28,4 +28,35 @@ Commands (one time for initial setup)
 --------------------------
 
 Most used Commands --
+
+git init (initialize main branch)
+git version (to check the version)
+ls (list files in folder)
+git status( to check file/folder status)
+mkdir foldername( to make folder through bash)
+nano filename (to make file through bash)
+git add .
+git status
+git log ( to check commit made by us)
+git branch( to check the branches)
+git branch branchname ( to make a new branch with name branchname)
+git checkout branchname (to jump form one branch to another branch)
+git log --oneline ( commits in one line)
+git commit -m "comment" (to make a new commit)
+git merge branchname ( for merging the branches)
+
+----------------------
+
+to use the github and push the code.
+
+step1 ) make the account in github
+step2 ) click create new repository and provide the name.
+
+step3 git remote add origin path
+git branch -M main
+git push -u origin main
+
+
+
+
 
